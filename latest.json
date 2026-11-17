@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "product": "iPhoneControlCenter20",
-  "version": "0.6.27",
+  "version": "0.6.28",
   "minimum_version": "",
   "mandatory": false,
-  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.27.zip",
-  "sha256": "f4c4b6b4c04c905e5799777a0e9fe956af4f6fa5fe03ce34521ac8a4dd5219ae",
-  "size": 634308,
-  "release_notes": "v0.6.27 内置官方 GitHub 更新地址；启动自动检查，新版可直接下载并安装；旧版手动地址无法覆盖官方更新通道。",
-  "published_at": "2026-11-17T04:32:58.243475+00:00",
-  "signature": "HFVmoZFLxjfVIqyg3QsJmWT6e8fYnNfYr38NJKGeRNuo/1dM9lHVG1X8ZwQ1cMFj9bq0iSBqrUelotTLC4SiDw=="
+  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.28.zip",
+  "sha256": "387a3323130dcd1feb10aa9641deaf71c48092e46c68d43f862c78f244ed40fd",
+  "size": 694889,
+  "release_notes": "v0.6.28：新增修改简历与企业认证，企业认证填写至 Submit 前供人工复核；支持选择任意盘安装。已修复多版本更新冲突。",
+  "published_at": "2026-11-17T04:59:03.765687+00:00",
+  "signature": "ZjhWXWSo0/gkxfcZiKaSNfPJExAofxwCSYdjkLJhBuft89cyYujTPe1MfCH3uzHpisre8f5AY+3iYKKid+dXAA=="
 }
