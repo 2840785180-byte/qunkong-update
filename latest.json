@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "product": "iPhoneControlCenter20",
-  "version": "0.6.28",
+  "version": "0.6.34",
   "minimum_version": "",
   "mandatory": false,
-  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.28.zip",
-  "sha256": "387a3323130dcd1feb10aa9641deaf71c48092e46c68d43f862c78f244ed40fd",
-  "size": 694889,
-  "release_notes": "v0.6.28：新增修改简历与企业认证，企业认证填写至 Submit 前供人工复核；支持选择任意盘安装。已修复多版本更新冲突。",
-  "published_at": "2026-11-17T04:59:03.765687+00:00",
-  "signature": "ZjhWXWSo0/gkxfcZiKaSNfPJExAofxwCSYdjkLJhBuft89cyYujTPe1MfCH3uzHpisre8f5AY+3iYKKid+dXAA=="
+  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.34.zip",
+  "sha256": "e019e5e3e05615536911f59b62df1b742a9369f928123ac87570cbe3e58c8a0e",
+  "size": 746032,
+  "release_notes": "v0.6.34：TikTok 与 TikTok Studio 登录再次提速。Studio 登录状态检测改为界面树优先，OCR 从约每 0.22 秒一次降到约每 0.9 秒兜底一次；权限按钮点击每次只扫描一次 OCR；页面轮询由 0.22 秒降到 0.18 秒；首页仍连续确认 4 次，但采样间隔由 0.65 秒降到 0.35 秒。验证码仍只发送一次，错误、未收到新码或限流时立即停止，不自动重发。全量离线回归 278 项通过。",
+  "published_at": "2026-11-17T12:10:13.225435+00:00",
+  "signature": "QSnkcXZuLOKg8h1QNrBtrONWSwECZzVDAlvnzfqoWVLiDanmdZ1PDXvDqHCJB+ZcdswkBkDrpeQbzvnZU8wDBA=="
 }
