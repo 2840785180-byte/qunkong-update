@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "product": "iPhoneControlCenter20",
-  "version": "0.6.34",
+  "version": "0.6.35",
   "minimum_version": "",
   "mandatory": false,
-  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.34.zip",
-  "sha256": "e019e5e3e05615536911f59b62df1b742a9369f928123ac87570cbe3e58c8a0e",
-  "size": 746032,
-  "release_notes": "v0.6.34：TikTok 与 TikTok Studio 登录再次提速。Studio 登录状态检测改为界面树优先，OCR 从约每 0.22 秒一次降到约每 0.9 秒兜底一次；权限按钮点击每次只扫描一次 OCR；页面轮询由 0.22 秒降到 0.18 秒；首页仍连续确认 4 次，但采样间隔由 0.65 秒降到 0.35 秒。验证码仍只发送一次，错误、未收到新码或限流时立即停止，不自动重发。全量离线回归 278 项通过。",
-  "published_at": "2026-11-17T12:10:13.225435+00:00",
-  "signature": "QSnkcXZuLOKg8h1QNrBtrONWSwECZzVDAlvnzfqoWVLiDanmdZ1PDXvDqHCJB+ZcdswkBkDrpeQbzvnZU8wDBA=="
+  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.35.zip",
+  "sha256": "b1121aba07fb2da52a1bf8e9ef308267ecb11499f4c2eccb1b3393ee39f885f5",
+  "size": 749219,
+  "release_notes": "v0.6.35 自动预约提速：界面树快速轮询、去掉固定等待、文案空占位跳过清空、每条预约记录实际耗时；全量回归 280 项通过。",
+  "published_at": "2026-11-17T12:28:43.075452+00:00",
+  "signature": "19pUYN7Vy3EzItPnIUgqG5PA6OX7gE2p9Lu/JZRVcWa0bFennQKfVf8c+mS+3SlU7GQTPKe8jeHyJZ2ZLkGRDQ=="
 }
