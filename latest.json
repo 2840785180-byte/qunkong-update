@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "product": "iPhoneControlCenter20",
-  "version": "0.6.22",
+  "version": "0.6.27",
   "minimum_version": "",
   "mandatory": false,
-  "package_url": "update-0.6.22.zip",
-  "sha256": "04dce4b88f317d70d8ff0a0ee30379f196ce88fb05d53bb6e7df0f07288b4b84",
-  "size": 628987,
-  "release_notes": "v0.6.22 新增返回检测按钮 可回到手机检测页面",
-  "published_at": "2026-11-17T00:34:57.722201+00:00",
-  "signature": "espzpcv4Ch68KrKihMH8R/ZiJVnDJtr0ncc56sPs5N1kYR3Tpe6Foahgtwn/P0i4veTbM9J6i4T91f0sxrSyAw=="
+  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.27.zip",
+  "sha256": "f4c4b6b4c04c905e5799777a0e9fe956af4f6fa5fe03ce34521ac8a4dd5219ae",
+  "size": 634308,
+  "release_notes": "v0.6.27 内置官方 GitHub 更新地址；启动自动检查，新版可直接下载并安装；旧版手动地址无法覆盖官方更新通道。",
+  "published_at": "2026-11-17T04:32:58.243475+00:00",
+  "signature": "HFVmoZFLxjfVIqyg3QsJmWT6e8fYnNfYr38NJKGeRNuo/1dM9lHVG1X8ZwQ1cMFj9bq0iSBqrUelotTLC4SiDw=="
 }
