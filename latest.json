@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "product": "iPhoneControlCenter20",
+  "version": "0.6.22",
+  "minimum_version": "",
+  "mandatory": false,
+  "package_url": "update-0.6.22.zip",
+  "sha256": "04dce4b88f317d70d8ff0a0ee30379f196ce88fb05d53bb6e7df0f07288b4b84",
+  "size": 628987,
+  "release_notes": "v0.6.22 新增返回检测按钮 可回到手机检测页面",
+  "published_at": "2026-11-17T00:34:57.722201+00:00",
+  "signature": "espzpcv4Ch68KrKihMH8R/ZiJVnDJtr0ncc56sPs5N1kYR3Tpe6Foahgtwn/P0i4veTbM9J6i4T91f0sxrSyAw=="
+}
