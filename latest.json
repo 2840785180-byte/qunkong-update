@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "product": "iPhoneControlCenter20",
-  "version": "0.6.35",
+  "version": "0.6.47",
   "minimum_version": "",
   "mandatory": false,
-  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.35.zip",
-  "sha256": "b1121aba07fb2da52a1bf8e9ef308267ecb11499f4c2eccb1b3393ee39f885f5",
-  "size": 749219,
-  "release_notes": "v0.6.35 自动预约提速：界面树快速轮询、去掉固定等待、文案空占位跳过清空、每条预约记录实际耗时；全量回归 280 项通过。",
-  "published_at": "2026-11-17T12:28:43.075452+00:00",
-  "signature": "19pUYN7Vy3EzItPnIUgqG5PA6OX7gE2p9Lu/JZRVcWa0bFennQKfVf8c+mS+3SlU7GQTPKe8jeHyJZ2ZLkGRDQ=="
+  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.47.zip",
+  "sha256": "2b1e3785363a37f93703cffc418446cb12c42d2e91572bebdea239ef09033b4b",
+  "size": 867127,
+  "release_notes": "v0.6.47 触控软恢复：锁屏唤醒后保留当前 Studio 文案、编辑和预约页面；只有 Studio 真丢失时才恢复会话，上传入口仍失败才冷启动。全量离线回归 373 项通过。",
+  "published_at": "2026-11-18T01:00:16.121351+00:00",
+  "signature": "o56diN+e3ll1+3NQ6+JIoFUI03RMAIWjPUzp/QOVgh0lnY9OnfsI6mSOBFX+RRZ5a1zJAdUDlnYcvGXFN3tuDw=="
 }
