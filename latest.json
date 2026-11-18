@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "product": "iPhoneControlCenter20",
-  "version": "0.6.47",
+  "version": "0.6.49",
   "minimum_version": "",
   "mandatory": false,
-  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.47.zip",
-  "sha256": "2b1e3785363a37f93703cffc418446cb12c42d2e91572bebdea239ef09033b4b",
-  "size": 867127,
-  "release_notes": "v0.6.47 触控软恢复：锁屏唤醒后保留当前 Studio 文案、编辑和预约页面；只有 Studio 真丢失时才恢复会话，上传入口仍失败才冷启动。全量离线回归 373 项通过。",
-  "published_at": "2026-11-18T01:00:16.121351+00:00",
-  "signature": "o56diN+e3ll1+3NQ6+JIoFUI03RMAIWjPUzp/QOVgh0lnY9OnfsI6mSOBFX+RRZ5a1zJAdUDlnYcvGXFN3tuDw=="
+  "package_url": "https://2840785180-byte.github.io/qunkong-update/update-0.6.49.zip",
+  "sha256": "008a71f650750a3c277ba39d7ccb59abe0c12aa2f120e92433ad4f7683c27626",
+  "size": 869067,
+  "release_notes": "v0.6.49 新增 iOS 16.7.12/20H364、16.7.11/20H360 精确识别与一键组件安装；当前4台USB手机全部匹配；同时包含 v0.6.48 比赛视频识别修复；全量离线回归380项通过。",
+  "published_at": "2026-11-18T01:53:23.494630+00:00",
+  "signature": "NK4SEU1zeooaeaStf/sK/Dqr2TJiD4Lz79/jrNeDsH0raDn/kvjzpEAFqxePiwuwudUBm/sAg6alV0kfdV8HDg=="
 }
